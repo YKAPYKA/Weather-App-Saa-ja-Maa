@@ -1,0 +1,2 @@
+C:/Users/Yksyp/AndroidStudioProjects/weather_app/android/app/.cxx/Debug/2295401w/x86/CMakeFiles/edit_cache.dir
+C:/Users/Yksyp/AndroidStudioProjects/weather_app/android/app/.cxx/Debug/2295401w/x86/CMakeFiles/rebuild_cache.dir
