@@ -1,13 +1,19 @@
 # Weather App Sää & Mää
 
-Tämä ohjelma kertoo kaupungin sään helposti ja nopeasti.  
+Quick and simple weather lookup for any city
 
-# Toiminnot
+App Description
+Weather App – Sää & Mää is a lightweight weather application that allows users to quickly check the current weather for any city. Simply type the name of the city, and the app instantly displays the temperature, weather conditions, and a dynamic background image that changes based on the weather.
 
-- Hae minkä tahansa kaupungin sää helposti kirjoittamalla kaupungin nimi.
-- Ohjelma näyttää:
-    - Lämpötilan celsius-asteina
-    - Sään kuvauksen (esim. Rainy, Sunny)
-    - Taustakuvan, joka muuttuu sään mukaan
+This app provides a clean, fast, and intuitive way to stay updated on current weather conditions.
+
+Features
+
+• Search weather for any city by typing its name
+• Displays:
+– Temperature in Celsius
+– Weather description (e.g., Sunny, Rainy, Cloudy)
+• Dynamic background image that updates according to weather conditions
+• Simple and user-friendly UI
   
 ![Pelin kuvakaappaus](SaaMaa1.jpg)
